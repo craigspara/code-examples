@@ -1,0 +1,24 @@
+
+<!-- saved from url=(0060)http://sm-cdn.simplymeasured.com/httpclient/html5Client.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <script src="./superagent.min.js"></script>
+    <script src="js/fingerprint2.min.js"></script>
+    <script src="./uuid.min.js"></script>
+  </head>
+  <body>
+    <script src="js/html5ClientCode.min.js"></script>
+    <script>
+      var client = clientFactory(new Fingerprint2({
+        excludeCanvas: true
+      }), superagent, window, localStorage, uuid, sessionStorage, document);
+
+      client.initClient();
+
+      if (window.addEventListener) {
+        window.addEventListener('message', function(e) {
+          client.sendMessage(e.data);
+        });
+      }
+    </script><div id="ads"></div>
+  
+</body></html>

@@ -1,0 +1,1 @@
+extole.define("http://origin.extole.io/type=core:clientId=1933045607:coreAssetsVersion=1499462991669/common/cookie.js",["cookie"],function(a){return a});

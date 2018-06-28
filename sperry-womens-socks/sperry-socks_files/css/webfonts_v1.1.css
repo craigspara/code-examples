@@ -1,0 +1,175 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3331226, 2017-01-13T12:37:31-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: BrandonGrotesqueWeb-Bold by HVD Fonts
+ * URL: http://www.myfonts.com/fonts/hvdfonts/brandon-grotesque/bold/
+ * 
+ * Webfont: BrandonGrotesqueWeb-Black by HVD Fonts
+ * URL: http://www.myfonts.com/fonts/hvdfonts/brandon-grotesque/black/
+ * 
+ * Webfont: BrandonGrotesqueWeb-Italic by HVD Fonts
+ * URL: http://www.myfonts.com/fonts/hvdfonts/brandon-grotesque/italic/
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3331226
+ * Licensed pageviews: 48,000,000
+ * Webfonts copyright: Copyright (c) 2015 by Hannes von Doehren. All rights reserved.
+ * 
+ * © 2017 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/32d49a");
+  
+@font-face {
+  font-family: 'BrandonGrotesqueWeb-Bold';
+  src: url('fonts/32D49A_0_0.eot');
+  src: url('fonts/32D49A_0_0.eot?#iefix') format('embedded-opentype'),
+       url('fonts/32D49A_0_0.woff2') format('woff2'),
+       url('fonts/32D49A_0_0.woff') format('woff'),
+       url('fonts/32D49A_0_0.ttf') format('truetype');
+}
+ 
+  
+@font-face {
+  font-family: 'BrandonGrotesqueWeb-Black';
+  src: url('fonts/32D49A_1_0.eot');
+  src: url('fonts/32D49A_1_0.eot?#iefix') format('embedded-opentype'),
+       url('fonts/32D49A_1_0.woff2') format('woff2'),
+       url('fonts/32D49A_1_0.woff') format('woff'),
+       url('fonts/32D49A_1_0.ttf') format('truetype');
+}
+ 
+  
+@font-face {
+  font-family: 'BrandonGrotesqueWeb-Italic';
+  src: url('fonts/32D49A_2_0.eot');
+  src: url('fonts/32D49A_2_0.eot?#iefix') format('embedded-opentype'),
+       url('fonts/32D49A_2_0.woff2') format('woff2'),
+       url('fonts/32D49A_2_0.woff') format('woff'),
+       url('fonts/32D49A_2_0.ttf') format('truetype');
+}
+ 
+/* End above MyFonts license */
+
+/**
+ * @license
+ * MyFonts Webfont Build ID 3343276, 2017-02-10T12:02:41-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: BrandonGrotesqueWeb-Regular by HVD Fonts
+ * URL: http://www.myfonts.com/fonts/hvdfonts/brandon-grotesque/regular/
+ * Copyright: Copyright (c) 2015 by Hannes von Doehren. All rights reserved.
+ * Licensed pageviews: 48,000,000
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3343276
+ * 
+ * © 2017 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3303ac");
+
+  
+@font-face {font-family: 'BrandonGrotesqueWeb-Regular';
+  src: url('fonts/3303AC_0_0.eot');
+  src: url('fonts/3303AC_0_0.eot?#iefix') format('embedded-opentype'),
+       url('fonts/3303AC_0_0.woff2') format('woff2'),
+       url('fonts/3303AC_0_0.woff') format('woff'),
+       url('fonts/3303AC_0_0.ttf') format('truetype');
+}
+ 
+
+/* End above MyFonts license */
+
+@font-face {
+	font-family: 'BertholdAkzidenzGroteskRegular';
+    font-weight: normal;
+    font-style: normal;
+    src:url(fonts/akzidgrocffreg-webfont.eot);
+  	src:url(fonts/akzidgrocffreg-webfont.eot?#iefix) format("embedded-opentype"),
+  	url(fonts/akzidgrocffreg-webfont.ttf)  format('truetype'),
+  	url(fonts/akzidgrocffreg-webfont.woff)  format('woff'),
+  	url(fonts/akzidgrocffreg-webfont.svg#webfont) format("svg")
+}
+
+@font-face {
+    font-family: 'BertholdAkzidenzGroteskLight';
+    font-weight: normal;
+    font-style: normal;
+    src:url(fonts/akzidgrocfflig-webfont.eot);
+  	src:url(fonts/akzidgrocfflig-webfont.eot?#iefix) format("embedded-opentype"),
+  	url(fonts/akzidgrocfflig-webfont.ttf)  format('truetype'),
+  	url(fonts/akzidgrocfflig-webfont.woff)  format('woff'),
+  	url(fonts/akzidgrocfflig-webfont.svg#webfont) format("svg")
+}
+@font-face {
+    font-family: 'BertholdAkzidenzGroteskLight';
+    font-weight: normal;
+    font-style: italic;
+    src:url(fonts/akzidgrocffligit-webfont.eot);
+  	src:url(fonts/akzidgrocffligit-webfont.eot?#iefix) format("embedded-opentype"),
+  	url(fonts/akzidgrocffligit-webfont.ttf)  format('truetype'),
+  	url(fonts/akzidgrocffligit-webfont.woff)  format('woff'),
+  	url(fonts/akzidgrocffligit-webfont.svg#webfont) format("svg")
+}
+
+@font-face {
+    font-family: 'BertholdAkzidenzGroteskMedium';
+    font-weight: normal;
+    font-style: normal;
+	src:url(fonts/akzidgrocffmd-webfont.eot);
+  	src:url(fonts/akzidgrocffmd-webfont.eot?#iefix) format("embedded-opentype"),
+  	url(fonts/akzidgrocffmd-webfont.ttf)  format('truetype'),
+  	url(fonts/akzidgrocffmd-webfont.woff)  format('woff'),
+  	url(fonts/akzidgrocffmd-webfont.svg#webfont) format("svg")
+}
+@font-face {
+    font-family: 'BertholdAkzidenzGroteskMedium';
+    font-weight: normal;
+    font-style: italic;
+    src:url(fonts/akzidgrocffmdit-webfont.eot);
+  	src:url(fonts/akzidgrocffmdit-webfont.eot?#iefix) format("embedded-opentype"),
+  	url(fonts/akzidgrocffmdit-webfont.ttf)  format('truetype'),
+  	url(fonts/akzidgrocffmdit-webfont.woff)  format('woff'),
+  	url(fonts/akzidgrocffmdit-webfont.svg#webfont) format("svg")
+}
+
+
+@font-face {
+    font-family: 'BrandonPrintedOne';
+    font-weight: normal;
+    font-style: normal;
+    src:url(fonts/hvd_fonts_-_brandon_printed_one-webfont.eot);
+  	src:url(fonts/hvd_fonts_-_brandon_printed_one-webfont.eot?#iefix) format("embedded-opentype"),
+  	url(fonts/hvd_fonts_-_brandon_printed_one-webfont.ttf)  format('truetype'),
+  	url(fonts/hvd_fonts_-_brandon_printed_one-webfont.woff)  format('woff'),
+  	url(fonts/hvd_fonts_-_brandon_printed_one-webfont.svg#webfont) format("svg")
+}
+
+@font-face {
+    font-family: 'BrandonPrintedTwo';
+    font-weight: normal;
+    font-style: normal;
+    src:url(fonts/hvd_fonts_-_brandon_printed_two-webfont.eot);
+  	src:url(fonts/hvd_fonts_-_brandon_printed_two-webfont.eot?#iefix) format("embedded-opentype"),
+  	url(fonts/hvd_fonts_-_brandon_printed_two-webfont.ttf)  format('truetype'),
+  	url(fonts/hvd_fonts_-_brandon_printed_two-webfont.woff)  format('woff'),
+  	url(fonts/hvd_fonts_-_brandon_printed_two-webfont.svg#webfont) format("svg")
+
+}

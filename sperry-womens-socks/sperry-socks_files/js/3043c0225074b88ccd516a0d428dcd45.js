@@ -1,0 +1,2 @@
+Bootstrapper.bindImmediate(function(){var Bootstrapper=window["Bootstrapper"];var ensightenOptions=Bootstrapper.ensightenOptions;Bootstrapper.on("click",".mini-cart-link-checkout",function(){Bootstrapper.ensEvent.trigger("US - MiniCart Checkout Click",this)},true)},-1,-1);
+Bootstrapper.bindImmediate(function(){var Bootstrapper=window["Bootstrapper"];var ensightenOptions=Bootstrapper.ensightenOptions;Bootstrapper.on("click",".cart-checkout",function(){Bootstrapper.ensEvent.trigger("US Checkout - Click",this)},true)},-1,-1);
